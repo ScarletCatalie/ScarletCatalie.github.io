@@ -1,2 +1,5 @@
 name: Natalie Clayton
 theme: jekyll-theme-slate
+
+plugins:
+  - jekyll-sitemap
