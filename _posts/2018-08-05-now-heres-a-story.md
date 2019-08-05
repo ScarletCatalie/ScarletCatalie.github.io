@@ -1,6 +1,6 @@
 ---
 layout: post
-title: .log: Now, here's a story
+title: Now, here's a story
 date: 2018-08-05
 ---
 
