@@ -53,6 +53,8 @@ I wouldn't pick up development until January 2019. Following a bit of a rough wi
 
 This is where everything clicked into gear. Friendship ended with Inkle, now Fungus is my new friend. Fungus is a visual-novel tool for Unity that I found far better suited what we needed. Additionally, it came with light scripting elements that let me call changes to light, sound, scenes and that straight from the tool.
 
+Thanks to the change, I was able to properly power through development. Getting the whole thing in one flowchart was tedious, sure, but I had the script implemented and ready for edits within a few weeks (my development process is not... intensive).
+
 Xalavier had been busy too. Shortly after we kicked back into production, he started producing further refinements to the script. More importantly, he got us sounds. Reaching out to Priscilla Snow (an incredible musician who performs under Ghoulnoise), we quickly scored a score to elevate the game even further.
 
 Now, we just had to finish the damn thing.
