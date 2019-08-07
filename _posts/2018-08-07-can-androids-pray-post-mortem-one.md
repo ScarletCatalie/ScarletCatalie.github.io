@@ -4,6 +4,8 @@ title:  A Can Androids Pray Port-Mortem (Part 1)
 date: 2018-08-07
 ---
 
+(*I'm still editing this piece, largely to test formatting on the new site!*)
+
 *Can Androids Pray?* I'm sure they can try.
 
 It's one month since Xalavier, Priscilla and I launched our mecha existential dread-fest.  The sales are finally slowing down (so is my life, frankly) but this has been the largest game release of my career. I'm blown away by the response.
