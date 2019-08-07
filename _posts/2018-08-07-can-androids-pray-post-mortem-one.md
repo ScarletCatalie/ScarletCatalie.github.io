@@ -47,7 +47,7 @@ But there were other reasons. Inkle was great enough for getting words into Unit
 
 I wouldn't pick up development until January 2019. Following a bit of a rough winter and a creative slump, I was hit by a surge of creative energy. This game deserved making, and I needed to prove I could finish it.
 
-<img src="https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/praygif.gif" alt="Switching Can Androids Pray to Fungus" width="690" height = "389"/>
+<img src="https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/praygif.gif" alt="Switching Can Androids Pray to Fungus" width="690"/>
 
 *Now in Fungus, the game looks far closer to the final release*
 
