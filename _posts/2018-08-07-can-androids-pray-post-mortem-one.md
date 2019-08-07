@@ -32,7 +32,7 @@ I'd been looking for someone to collaborate with for months. At the time, I was 
 
 We immediately set to work. Xalavier sent me draft after draft of a script, and I set about plugging it into Unity. Back then, I was using Inkle to turn his words into game logic, which was... fine. It was okay. Progress was getting made, the structure was set out. This was becoming real.
 
-<img src="https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/Earliest_Candroid.png" alt="The earliest screenshot of Can Androids Pray" width="690" height = "389"/>
+<img src="https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/Earliest_Candroid.png" alt="The earliest screenshot of Can Androids Pray" width="690"/>
 
 *This genuinely might be the oldest screen I have of* Can Androids Pray, *and the only one from its Inkle days*
 
