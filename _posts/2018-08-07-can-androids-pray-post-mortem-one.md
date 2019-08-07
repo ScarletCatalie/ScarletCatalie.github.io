@@ -12,7 +12,7 @@ The reception has been wild. The stress has been real.
 
 With that in mind, I figured it's time for a little dive into how Can Androids Pray came to be.
 
-#### Opening Volley
+## Opening Volley
 
 We can't talk about *Can Androids Pray* without mentioning *Illal*. Back in early 2018, I was messing around with an open-world mech game. Learning to 3D model turned into learning to animate turned into plugging said animation into a whole new game.
 
@@ -37,7 +37,7 @@ We immediately set to work. Xalavier sent me draft after draft of a script, and 
 *This genuinely might be the oldest screen I have of* Can Androids Pray, *and the only one from its Inkle days*
 
 
-#### The Long Dark
+## The Long Dark
 
 And then, nothing happened. For about eight months.
 
