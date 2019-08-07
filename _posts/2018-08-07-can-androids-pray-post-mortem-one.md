@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building God for Mecha - A Can Androids Pray Port-Mortem (Part 1)
+title:  A Can Androids Pray Port-Mortem (Part 1)
 date: 2018-08-07
 ---
 
