@@ -8,7 +8,7 @@ date: 2018-08-07
 
 What I did manage was to develop, exhibit and release the largest game of my career. One month after release, and the sales are finally slowing down. So is my life, frankly. This year's been dominated by shows, exhibits, and nights throwing this game in front of an audience.
 
-The reception has been wild. The stress has been real.
+The reception has been wild. The stress has been real. I'm beyond proud of what the three of us accomplished.
 
 With that in mind, I figured it's time for a little dive into how Can Androids Pray came to be.
 
