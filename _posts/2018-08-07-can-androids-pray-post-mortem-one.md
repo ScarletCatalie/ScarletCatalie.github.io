@@ -19,6 +19,7 @@ We can't talk about *Can Androids Pray* without mentioning *Illal*. Back in earl
 It would have smashed *Where The Water Tastes Like Wine* into *Jalopy* by way of *HAWKEN*'s chunky mech design. A vehicular adventure where you'd take care of your mech while meeting strange folk with stranger stories.
 
 <img src="https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/Illal%20Preview.jpg" alt="A very early glimpse at Illal" width="690" height = "389"/>
+
 *An early look at Project Illal, a third/first-person exploration game*
 
 I got as far as plugging a flight stick into a half-baked build of *Illal* and taking it to a show in Dundee.
@@ -47,6 +48,7 @@ But there were other reasons. Inkle was great enough for getting words into Unit
 I wouldn't pick up development until January 2019. Following a bit of a rough winter and a creative slump, I was hit by a surge of creative energy. This game deserved making, and I needed to prove I could finish it.
 
 <img src="https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/praygif.gif" alt="Switching Can Androids Pray to Fungus" width="690" height = "389"/>
+
 *Now in Fungus, the game looks far closer to the final release*
 
 This is where everything clicked into gear. Friendship ended with Inkle, now Fungus is my new friend. Fungus is a visual-novel tool for Unity that I found far better suited what we needed. Additionally, it came with light scripting elements that let me call changes to light, sound, scenes and that straight from the tool.
