@@ -32,7 +32,7 @@ Ah, well. At least walking through tower blocks is always a lark.
 
 I caved. I finally bought a Switch. The Lite looks well cute in banana yellow, and there was a hyper-stylish new Mech game out in Daemon X Machina. In hindsight, I don't really rate DXM (it's fun as hell, but the story is forced and throwaway), but the Switch? It's pretty bloody good, lads.
 
-There were some bangers in the first few weeks. Untitled Goose Game is honkin' great, and I can't undersell how wild it is to play Thumper on a bus (please don't *only* play Thumper on a bus, but if you can, play Thumper on a bus). Someone lent me Breath Of The Wild and yeah, y'all were right about that one. One week, though, I picked up a wee game called Splatoon 2.
+There were some bangers in the first few weeks. Untitled Goose Game is honkin' great, and I can't undersell how wild it is to play Thumper on a bus (please don't *only* play Thumper on a bus, but if you can, play Thumper on a bus). I'm borrowing Breath Of The Wild from a pal and yeah, y'all were right about that one. One game rises far above the rest, though. One day, I picked up a cute wee game called Splatoon 2.
 
 I haven't been seen since.
 
@@ -40,7 +40,7 @@ I'd kinda given up on finding a new, *good* team shooter to obsess over. Somethi
 
 Splatoon filled the empty space in my heart once occupied by Jet Set Radio, an urban battleground driven by music and packed with fashion. It's a weird and wild world to exist in, and I've taken to just popping into empty maps to soak in the atmosphere. Splatoon's singleplayer campaigns don't quite carry that vibe, but they're wildly creative nonetheless. Agent 4's story is Super Mario Galaxy with guns. Octo Expansion is that, but... Portal?  
 
-It's ignited a joy that would've had 18-year-old Tumblr Nat neck-deep in fandom. Bitter, tired 25-year-old Twitter Nat is just along for the ride. I'm furious at myself for not having picked it up earlier.
+It's ignited a joy that would've had 18-year-old Tumblr Nat neck-deep in fandom. Bitter, tired 25-year-old Twitter Nat is just along for the ride. Furious at herself for not having picked it up sooner.
 
 On that count, Splatoon 2 isn't alone.
 
@@ -61,6 +61,16 @@ It took Apex to turn the Frontier into something with character - just enough to
 Apex, though? It's brill. Wallrunning and mechs aren't missed when you're sliding down hillsides and vaulting entire buildings. It keeps delivering, too. The latest map blew King's Canyon out of the water. Halloween resurrected Halo 3 zombies and revived Titanfall's dropship escapes. I've taken time away (for uh... squid reasons) but I'm pumped as hell to see what's next.
 
 <h3>To all the Itch games I met along the way</h3>
+
+![](https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/Afternoon-rippling-lesbians.jpg)
+
+Oh! I almost forgot writing this, but my Itch library exploded this year.
+
+A lotta that's down to doing news coverage for Rock Paper Shotgun for a few months there, mind. In the hunt for neat stuff to write about we uncovered a lot of hidden gems. That also means it's hard to say anything new here, so I'll add links to my past words as I name 'em.
+
+No Players Online is a haunting revisit of dead servers, something I'm all too familiar with. An Afternoon Rippling is warm, a lonely road trip through the strange and surreal lives of strangers. Throw Cubes At Brick Towers To Collapse Them is exactly what it says on the tin, and shouldn't have eaten so much of my time as it should have. Eat Girl is both a fascinating modern retelling of *Pac Man*, and a wordless, deeply melancholy exercise in tone. I finally discovered Sokpop's library of bouncy, daft games including the brilliant timewaster Pupper Park.
+
+They weren't all passing curiosities, mind. I got deeply in Noita this year. Part Spelunky, part "that powder game wot you played on the school PC", I'd have gone all in on Noita if my rig could run its simulationist pixels but a little better.
 
 
 <h3>...and the rest</h3>
