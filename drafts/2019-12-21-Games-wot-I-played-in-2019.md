@@ -2,7 +2,6 @@
 layout: post
 ---
 
-![](https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/header-2019.jpg)
 ![](https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/header.jpg)
 
 It's December, 2019. It's Christmas in a few days. I'm exhausted.
