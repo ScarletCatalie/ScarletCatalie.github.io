@@ -12,7 +12,7 @@ I couldn't put together an actual, capital-GOTY Game Of The Year list for 2019 i
 
 Wow, that's kind of a bad look for someone who makes a career of writing on games, huh! But I didn't like, not play games at all. Don't be daft. Besides returning to comfortable classics, I played a fair few bangers in 2019. I caught up with some absolute jams I missed from past years, and found some tiny gems on website-of-the-year <a href="http://itch.io">itch dot io</a>. Here's a wee rundown of the games (old and new) that got me through this wild-ass year.
 
-<h3>The Year Of The Mech</h3>
+<h2>The Year Of The Mech</h2>
 
 ![](https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/Battletech.jpg)
 
@@ -26,7 +26,7 @@ It shines brighter in comparison to Piranha Games' MechWarrior 5. I so, dearly w
 
 Ah, well. At least walking through tower blocks is always a lark.
 
-<h3>Squidtoons 2</h3>
+<h2>Squidtoons 2</h2>
 
 ![](https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/Splatoon.jpg)
 
@@ -40,11 +40,9 @@ I'd kinda given up on finding a new, *good* team shooter to obsess over. Somethi
 
 Splatoon filled the empty space in my heart once occupied by Jet Set Radio. Inkopolis is an urban battleground driven by music, Tokyo-To with a fishy twist and killer fashion. It's a weird and wild world to exist in, and I've taken to just popping into empty maps to soak in the atmosphere. Splatoon's singleplayer campaigns don't quite carry that vibe, but they're wildly creative nonetheless. Agent 4's story is Super Mario Galaxy with guns. Octo Expansion is that, but... Portal?  
 
-It's ignited a joy that would've had 18-year-old Tumblr Nat neck-deep in fandom. Bitter, tired 25-year-old Twitter Nat is just along for the ride. Furious at herself for not having picked it up sooner. On that count, Splatoon 2 isn't alone.
+It's ignited a joy that would've had 18-year-old Tumblr Nat neck-deep in fandom. Bitter, tired 25-year-old Twitter Nat is just along for the ride, furious at herself for not having picked it up sooner. Splatoon 2 is one of those games that'll stick with me for a long, long time.
 
-Splatoon 2 is one of those games that'll stick with me forever. Expect to see me gush over it in a full post sooner rather than later.
-
-<h3>Respawn make good games. huh.</h3>
+<h2>Respawn make good games. huh.</h2>
 
 ![](https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/Titanfall%202.jpg)
 
@@ -60,7 +58,7 @@ It took Apex to turn the Frontier into something with character - just enough to
 
 Apex, though? It's brill. Wallrunning and mechs aren't missed when you're sliding down hillsides and vaulting entire buildings. It keeps delivering, too. The latest map blew King's Canyon out of the water. Halloween resurrected Halo 3 zombies and revived Titanfall's dropship escapes. I've taken time away (for uh... squid reasons) but I'm pumped as hell to see what's next.
 
-<h3>To all the Itch games I met along the way</h3>
+<h2>To all the Itch games I met along the way</h2>
 
 ![](https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/Afternoon-rippling-lesbians.jpg)
 
@@ -73,7 +71,7 @@ No Players Online is a haunting revisit of dead servers, something I'm all too f
 They weren't all passing curiosities, mind. I got deeply in Noita this year. Part Spelunky, part "that powder game wot you played on the school PC", I'd have gone all in on Noita if my rig could run its simulationist pixels but a little better.
 
 
-<h3>...and the rest</h3>
+<h2>...and the rest</h2>
 
 Of course, there's a bunch more stuff worth mentioning. The early days of Nate Crowley's RPS Minecraft server were a bizarre riot, as noted by Sin's fantastic Hermit diaries. I've returned to Team Fortress 2 and Garry's Mod more times than I care to admit in the last 12 months. Finally, 2019 was the year I broke the World of Warcraft habit for good. After narrowly avoiding being sucked into a hole with Classic, I'm ready to admit that I'm done with Azeroth for good.
 
