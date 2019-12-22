@@ -8,7 +8,7 @@ It's December, 2019. It's Christmas in a few days. I'm exhausted.
 
 This year was a lot, readers. I've been running on fumes since January, and it took some bad news last month to realise just how exhausting it's been.
 
-I couldn't put together an actual, capital-GOTY Game Of The Year list for 2019 if I tried. I think I maybe played, at a stretch, *eight* new games this year. I'm sure that Star Wars lark was fun. The Outer Worlds/Wilds looks way better than The Outer Wilds/Worlds. But between jetting off to events, quitting jobs, moving my PC across town and diving back into the freelance furnace, I didn't keep up with games well in 2019.
+I couldn't put together an actual, capital-GOTY Game Of The Year list for 2019 if I tried. I think I maybe played, at a stretch, *eight* new games this year. I'm sure that Star Wars lark was fun, and your jokes confusing The Outer Worlds for The Outer Wilds haven't gotten old, I *promise*. But between jetting off to events, quitting jobs, moving my PC across town and diving back into the freelance furnace, I didn't keep up with games well in 2019.
 
 Wow, that's kind of a bad look for someone who makes a career of writing on games, huh! But I didn't like, not play games at all. Don't be daft. Besides returning to comfortable classics, I played a fair few bangers in 2019. I caught up with some absolute jams I missed from past years, and found some tiny gems on website-of-the-year <a href="http://itch.io">itch dot io</a>. Here's a wee rundown of the games (old and new) that got me through this wild-ass year.
 
