@@ -18,7 +18,7 @@ Wow, that's kind of a bad look for someone who makes a career of writing on game
 
 2019 was a year for giant robots. We launched <a href="https://itch.io/b/343/can-androids-pray">our own sad mech game</a> in July, sure - an existential drama that left plenty of folk crying and shaking when trying it out at shows. A roaring success, then.
 
-In 2019, I spent way more time in other people's cockpits. I finally checked out Neon Genesis Evangelion, when its Netflix release brought the discourse screaming onto my feed. More importantly, I returned to Harebrained Schemes' BattleTech, picking up the season pass and bringing a full Career to completion.
+In 2019, I spent way more time in other people's cockpits. I cought up on Titanfall (we'll get to that), spent a lot of time in a hacked-together Hawken server, and finally checked out Neon Genesis Evangelion when its Netflix release brought the discourse screaming onto my feed. More importantly, I returned to Harebrained Schemes' BattleTech, picking up the season pass and bringing a full Career to completion.
 
 What a game, y'all. Now complete, BattleTech is a phenomenal package. Urban missions present new tactical opportunities, where movement is never a given and cover never permanent. I picked up the Bull Shark, HBS' bespoke new Assault mech, at the very end of my run - the game rewarding my hard work with an absolute bastard of a 'bot that can turn foes to scrap with a look.
 
