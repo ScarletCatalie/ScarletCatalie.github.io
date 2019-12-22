@@ -12,11 +12,11 @@ I couldn't put together an actual, capital-GOTY Game Of The Year list for 2019 i
 
 Wow, that's kind of a bad look for someone who makes a career of writing on games, huh! But I didn't like, not play games at all. Don't be daft. Besides returning to comfortable classics, I played a fair few bangers in 2019. I caught up with some absolute jams I missed from past years, and found some tiny gems on website-of-the-year <a href="http://itch.io">itch dot io</a>. Here's a wee rundown of the games (old and new) that got me through this wild-ass year.
 
-<h2>The Year Of The Mech</h2>
+<h2>Mech Assault 2019</h2>
 
 ![](https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/Battletech.jpg)
 
-Hey kid. Did you, uh... know that I, Nat Clayton, enjoy big stompin' robots?
+Hey kid. Did you, uh... know that I kinda like big stompin' robots?
 
 This July, we launched <a href="https://itch.io/b/343/can-androids-pray">our own sad mech game</a> - an existential drama that left plenty of folk crying and shaking when trying it out at shows. A roaring success, then.
 
@@ -58,7 +58,9 @@ Here's a take, though. That campaign? It's okay. It's... fine. 7/10. Standards f
 
 It took Apex to turn the Frontier into something with character - just enough to add some devilishly fun characters into the Respawn battle royale. ApeLegs is probably the 2019 game I spent the most time with in 2019. I'd missed the BR craze - PUBG was pricey and dour-looking, while Fortnite moves too fast to keep up with.
 
-Apex, though? It's brill. Wallrunning and mechs aren't missed when you're sliding down hillsides and vaulting entire buildings. It keeps delivering, too. The latest map blew King's Canyon out of the water. Halloween resurrected Halo 3 zombies and revived Titanfall's dropship escapes. I've taken time away (for uh... squid reasons) but I'm pumped as hell to see what's next.
+Apex, though? It's brill. Wallrunning and mechs aren't missed when you're sliding down hillsides and vaulting entire buildings. It keeps delivering, too. The latest map blew King's Canyon out of the water. Halloween resurrected Halo 3 zombies and revived Titanfall's dropship escapes.
+
+I've taken time away in the last couple months (for uh... squid reasons) but I'm pumped as hell to see what's next.
 
 <h2>To all the Itch games I met along the way</h2>
 
@@ -76,6 +78,8 @@ They weren't all passing curiosities, mind. I got deeply in Noita this year. Par
 <h2>...and the rest</h2>
 
 Of course, there's a bunch more stuff worth mentioning. The early days of Nate Crowley's RPS Minecraft server were a bizarre riot, as noted by Sin's fantastic Hermit diaries. I've returned to Team Fortress 2 and Garry's Mod more times than I care to admit in the last 12 months. Finally, 2019 was the year I broke the World of Warcraft habit for good. After narrowly avoiding being sucked into a hole with Classic, I'm ready to admit that I'm done with Azeroth for good.
+
+No, seriously. For real. I mean it this time.
 
 I don't know what 2020 holds - in games and in life equally. Next year's tentpoles (Cyberpunk 2077, Half Life: Alyx) won't be for me, either for lack of interest or lack of expensive plastic headsets. I often feel out of the loop on new releases, which is a stressful problem to have when trying to make a career outta them.
 

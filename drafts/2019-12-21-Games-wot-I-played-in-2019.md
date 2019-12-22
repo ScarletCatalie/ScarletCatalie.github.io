@@ -3,8 +3,9 @@ layout: post
 ---
 
 ![](https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/header-2019.jpg)
+![](https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/header.jpg)
 
-It's December, 2019. It's christmas in a few days. I'm exhausted.
+It's December, 2019. It's Christmas in a few days. I'm exhausted.
 
 This year was a lot, readers. I've been running on fumes since January, and it took some bad news last month to realise just how exhausting it's been.
 
@@ -16,9 +17,11 @@ Wow, that's kind of a bad look for someone who makes a career of writing on game
 
 ![](https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/Battletech.jpg)
 
-2019 was a year for giant robots. We launched <a href="https://itch.io/b/343/can-androids-pray">our own sad mech game</a> in July, sure - an existential drama that left plenty of folk crying and shaking when trying it out at shows. A roaring success, then.
+Hey kid. Did you, uh... know that I, Nat Clayton, enjoy big stompin' robots?
 
-In 2019, I spent way more time in other people's cockpits. I caught up on Titanfall (we'll get to that), spent a lot of time in a hacked-together Hawken server, and finally checked out Neon Genesis Evangelion when its Netflix release brought the discourse screaming onto my feed. More importantly, I returned to Harebrained Schemes' BattleTech, picking up the season pass and bringing a full Career to completion.
+This July, we launched <a href="https://itch.io/b/343/can-androids-pray">our own sad mech game</a> - an existential drama that left plenty of folk crying and shaking when trying it out at shows. A roaring success, then.
+
+But in 2019, I spent way more time in other people's cockpits. I caught up on Titanfall (we'll get to that), spent a lot of time in a hacked-together Hawken client, and finally checked out Neon Genesis Evangelion when its Netflix release brought the discourse screaming onto my feed. More importantly, I returned to Harebrained Schemes' BattleTech, picking up the season pass and bringing a full Career to completion.
 
 What a game, y'all. Now complete, BattleTech is a phenomenal package. Urban missions present new tactical opportunities, where movement is never a given and cover never permanent. I picked up the Bull Shark, HBS' bespoke new Assault mech, at the very end of my run - the game rewarding my hard work with an absolute bastard of a 'bot that can turn foes to scrap with a look.
 
@@ -48,7 +51,7 @@ It's ignited a joy that would've had 18-year-old Tumblr Nat neck-deep in fandom.
 
 No, I didn't play the Jedi game.
 
-Why would I want to, anyway? Callum Starwars' lightsabre romp looks fine and all, but it's not what I go to Respawn for. On track with Splatoon 2, I didn't pick up Titanfall 2 'til this February. Me. The Mech liker. Shocking.
+Why would I want to, anyway? Callum Starwars' lightsabre romp looks fine and all, but that's not what I go to Respawn for. On track with Splatoon 2, I didn't pick up Titanfall 2 'til long after its release. Me. The Mech liker. Shocking.
 
 Big mistake, lads. Turns out parkour-running, mech-gunning team shootin' action is entirely my shit? I got into Titanfall 2 around the time Apex Legends dropped, along with thousands of new pilots who wanted to see what they'd missed first time around.
 
@@ -75,6 +78,8 @@ They weren't all passing curiosities, mind. I got deeply in Noita this year. Par
 
 Of course, there's a bunch more stuff worth mentioning. The early days of Nate Crowley's RPS Minecraft server were a bizarre riot, as noted by Sin's fantastic Hermit diaries. I've returned to Team Fortress 2 and Garry's Mod more times than I care to admit in the last 12 months. Finally, 2019 was the year I broke the World of Warcraft habit for good. After narrowly avoiding being sucked into a hole with Classic, I'm ready to admit that I'm done with Azeroth for good.
 
-I don't know what 2020 holds - in games and in life equally. Next year's tentpoles (Cyberpunk 2077, Half Life: Alyx) won't be for me, either for lack of interest or lack of expensive plastic headsets. I often feel out of the loop on new releases, which is a stressful problem to have when trying to make a career writing on them.
+I don't know what 2020 holds - in games and in life equally. Next year's tentpoles (Cyberpunk 2077, Half Life: Alyx) won't be for me, either for lack of interest or lack of expensive plastic headsets. I often feel out of the loop on new releases, which is a stressful problem to have when trying to make a career outta them.
 
-But then I remember If Found comes out next year. I remember that Ethen Redd has to release Killer Auto and Blazing Legion *eventually*. I remember that Hyper Light Drifter is getting a *3D sequel* at some point, that there's still an entire series of Halo games yet to hit PC.
+But then I remember Dreamfeel's If Found comes out next year. I remember that Ethen Redd has to release Killer Auto and Blazing Legion *eventually*. I remember that Hyper Light Drifter is getting a *3D sequel* at some point, that there's still an entire series of Halo games yet to hit PC. There's plenty of good shit on its way. I've probably never heard of my favourite game of 2020.
+
+Guess we'll just see what happens, eh?
