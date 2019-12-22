@@ -18,7 +18,7 @@ Wow, that's kind of a bad look for someone who makes a career of writing on game
 
 Hey kid. Did you, uh... know that I kinda like big stompin' robots?
 
-This July, we launched <a href="https://itch.io/b/343/can-androids-pray">our own sad mech game</a> - an existential drama that left plenty of folk crying and shaking when trying it out at shows. A roaring success, then.
+This July, we launched [our own sad mech game](https://itch.io/b/343/can-androids-pray) - an existential drama that left plenty of folk crying and shaking when trying it out at shows. A roaring success, then.
 
 But in 2019, I spent way more time in other people's cockpits. I caught up on Titanfall (we'll get to that), spent a lot of time in a hacked-together Hawken client, and finally checked out Neon Genesis Evangelion when its Netflix release brought the discourse screaming onto my feed. More importantly, I returned to Harebrained Schemes' BattleTech, picking up the season pass and bringing a full Career to completion.
 
@@ -56,7 +56,7 @@ Big mistake, lads. Turns out parkour-running, mech-gunning team shootin' action 
 
 Here's a take, though. That campaign? It's okay. It's... fine. 7/10. Standards for singleplayer shooters must've been awful in 2016, because while the novelty levels are neat, the real belters are few and far between. They're also not enough to hold up how naff the setting is - a beautiful, mil-tech sci-fi world with absolutely no character behind its main actors.
 
-It took Apex to turn the Frontier into something with character - just enough to add some devilishly fun characters into the Respawn battle royale. ApeLegs is probably the 2019 game I spent the most time with in 2019. I'd missed the BR craze - PUBG was pricey and dour-looking, while Fortnite moves too fast to keep up with.
+It took Apex to turn the Frontier into something with character - just enough to add some devilishly fun characters into the Respawn battle royale. Apelegs is probably the 2019 game I spent the most time with in 2019. I'd missed the BR craze - PUBG was pricey and dour-looking, while Fortnite moves too fast to keep up with.
 
 Apex, though? It's brill. Wallrunning and mechs aren't missed when you're sliding down hillsides and vaulting entire buildings. It keeps delivering, too. The latest map blew King's Canyon out of the water. Halloween resurrected Halo 3 zombies and revived Titanfall's dropship escapes.
 
@@ -70,14 +70,14 @@ Oh! I almost forgot writing this, but my Itch library exploded this year.
 
 A lotta that's down to doing news coverage for Rock Paper Shotgun for a few months there, mind. In the hunt for neat stuff to write about we uncovered a lot of hidden gems. That also means it's hard to say anything new here, so I'll add links to my past words as I name 'em.
 
-No Players Online is a haunting revisit of dead servers, something I'm all too familiar with. An Afternoon Rippling is warm, a lonely road trip through the strange and surreal lives of strangers. Throw Cubes At Brick Towers To Collapse Them is exactly what it says on the tin, and shouldn't have eaten so much of my time as it should have. Eat Girl is both a fascinating modern retelling of *Pac Man*, and a wordless, deeply melancholy exercise in tone. I finally discovered Sokpop's library of bouncy, daft games including the brilliant timewaster Pupper Park.
+[No Players Online](https://www.rockpapershotgun.com/2019/11/06/no-players-online-offers-free-spooks-on-the-empty-servers-of-a-dead-multiplayer-game/) is a haunting revisit of dead servers, something I'm all too familiar with. [An Afternoon Rippling](https://www.rockpapershotgun.com/2019/09/09/an-afternoon-rippling-wants-to-take-you-on-a-very-peculiar-hike/) is warm, a lonely road trip through the strange and surreal lives of strangers. [Throw Cubes At Brick Towers To Collapse Them](https://www.rockpapershotgun.com/2019/09/24/throw-cubes-into-brick-towers-to-collapse-them-thats-it-thats-the-game/) is exactly what it says on the tin, and shouldn't have eaten so much of my time as it should have. [Eat Girl](https://www.rockpapershotgun.com/2019/09/23/eat-girl-is-an-anxious-rework-of-a-familiar-labyrinth/) is both a fascinating modern retelling of *Pac Man*, and a wordless, deeply melancholy exercise in tone. I finally discovered Sokpop's library of bouncy, daft games including the brilliant timewaster [Pupper Park](https://www.rockpapershotgun.com/2019/11/12/pupper-park-lets-you-muck-around-as-a-dog-for-10-minutes/).
 
 They weren't all passing curiosities, mind. I got deeply in Noita this year. Part Spelunky, part "that powder game wot you played on the school PC", I'd have gone all in on Noita if my rig could run its simulationist pixels but a little better.
 
 
 <h2>...and the rest</h2>
 
-Of course, there's a bunch more stuff worth mentioning. The early days of Nate Crowley's RPS Minecraft server were a bizarre riot, as noted by Sin's fantastic Hermit diaries. I've returned to Team Fortress 2 and Garry's Mod more times than I care to admit in the last 12 months. Finally, 2019 was the year I broke the World of Warcraft habit for good. After narrowly avoiding being sucked into a hole with Classic, I'm ready to admit that I'm done with Azeroth for good.
+Of course, there's a bunch more stuff worth mentioning. The early days of Nate Crowley's RPS Minecraft server were a bizarre riot, as noted by Sin Vega's [fantastic Hermit diaries](https://www.rockpapershotgun.com/tag/hounded-out/). I've returned to Team Fortress 2 and Garry's Mod more times than I care to admit in the last 12 months. Finally, 2019 was the year I broke the World of Warcraft habit for good. After narrowly avoiding being sucked into a hole with Classic, I'm ready to admit that I'm done with Azeroth for good.
 
 No, seriously. For real. I mean it this time.
 
