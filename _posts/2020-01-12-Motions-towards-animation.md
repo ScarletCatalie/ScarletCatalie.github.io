@@ -59,9 +59,13 @@ Again, it's far from done. A lot of secondary motion is missing, and I never got
 
 My biggest complaint against many other early SFM vids I catch online is the same thing I'm seeing in my own pieces, too - motion without momentum, characters moving too smoothly, without the weight and speed and start/stop of convincing human action. That's something I'm very keen on training myself out of.
 
-I'm really happy with my progress over the last week, though. I usually hesitate over picking up a new hobby or skill - I feel I very quickly hit a point where I'm "okay" at something, whether that's an instrument or artistic discipline, but can't quite push myself into a level I'm proud of.  But animating in SFM makes a lot of sense to me right now. It's time-consuming but relaxing, complex but manageable, lots of tiny decisions and an endless well of things you can do a little better, given a little more time.
+I'm really happy with my progress over the last week, though. I usually hesitate over picking up a new hobby or skill - I feel I very quickly hit a point where I'm "okay" at something, whether that's an instrument or artistic discipline, but can't quite push myself into a level I'm proud of.  
 
-When I started this little dabble into Source Filmmaker, I didn't see myself taking it very far. Then I spent 40 hours in one week getting noticeable better. Right now, I'm having an absolute blast learning something and seeing myself progress. Creating enjoyable stories? Well, that's a whole 'nother hurdle, and we'll see if any good shorts ever actually come outta this adventure.
+That's largely on me, of course. Commitment and practice are hard, and I used to be a deeply miserable teen too engrossed in my own angst to pick up a pen or guitar.
+
+But animating in SFM makes a lot of sense to me right now. It's deeply relaxing, sitting in a sweet spot between technical know-how and creative expression that really works for my brain. When I started this little dabble into Source Filmmaker, I didn't see myself taking it very far. Then I spent 40 hours in one week getting noticeable better.
+
+Right now, I'm having an absolute blast learning something and seeing myself progress. Creating enjoyable stories? Well, that's a whole 'nother hurdle, and we'll see if any good shorts ever actually come outta this adventure.
 
 'Til then, I'm happy to keep improving my vibes.
 
