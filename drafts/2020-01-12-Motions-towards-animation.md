@@ -65,4 +65,4 @@ When I started this little dabble into Source Filmmaker, I didn't see myself tak
 
 <br>
 
-<rawtext>* </rawtext> *I touched on it in my [2019-in-games](https://scarletcatalie.github.io/blog/2019/12/22/Games-wot-I-played-in-2019) post, but I'm really, truly stuck deep into Splatoon 2. I almost wish I was 18 again, able to earnestly engage in a daft fandom for a cute game. Alas, I am but a cynical 25-year-old with a modest following and a perhaps-misplaced need for people to take me as a cool, serious creative-slash-critic.*
+ *(I touched on it in my [2019-in-games](https://scarletcatalie.github.io/blog/2019/12/22/Games-wot-I-played-in-2019) post, but I'm really, truly stuck deep into Splatoon 2. I almost wish I was 18 again, able to earnestly engage in a daft fandom for a cute game. Alas, I am but a cynical 25-year-old with a modest twitter following, a perhaps-misplaced need for people to take me as a cool, serious creative-slash-critic, and deep hangups about earnestly enjoying things I like.)*
