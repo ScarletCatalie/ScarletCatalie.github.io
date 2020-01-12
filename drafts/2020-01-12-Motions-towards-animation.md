@@ -51,7 +51,7 @@ It's far from perfect, but it's the first piece I created that felt wholly convi
 
 The next day, I decided to push further into this (as I'd repeatedly refer to it throughout the day) *vibe*. I was a bit exhausted with walk cycles, so I started messing with smaller motions and - more importantly - environmental tricks.
 
-I started work on a little slice-of-life sequence, an early morning commute for our Octoling friend here. Nothing too ambitious, just a series of short shots to sell that hazy dawn commuter feeling. Admittedly, I'm beyond proud of how well the train short works, using a simple repeating light sweep and some minor rotation in the carriage ahead.
+I started work on a little slice-of-life sequence, an early morning commute for our Octoling friend here. Nothing too ambitious, just a series of short shots to sell that hazy dawn commuter feeling. Admittedly, I'm beyond proud of how well the train shot works, using a simple repeating light sweep and some minor rotation in the carriage ahead.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Running off for the day, pretty chuffed with how these vibes are coming along.<br><br>Considering I installed SFM like, 4 days ago, it&#39;s no too shabby. Plenty of polish and work to do yet. <a href="https://t.co/fzI7EtfBYu">pic.twitter.com/fzI7EtfBYu</a></p>&mdash; nat clayton (@ScarletCatalie) <a href="https://twitter.com/ScarletCatalie/status/1215688683074080771?ref_src=twsrc%5Etfw">January 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
