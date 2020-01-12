@@ -35,7 +35,7 @@ I think it paid off well - this Soldier, for example, doesn't look nearly as con
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">a little bit more swagger, a little bit of light. <a href="https://t.co/zUbS7URIcq">pic.twitter.com/zUbS7URIcq</a></p>&mdash; nat clayton (@ScarletCatalie) <a href="https://twitter.com/ScarletCatalie/status/1214981602528432130?ref_src=twsrc%5Etfw">January 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-You'll notice the low-angle camera shot obscuring the feet, mind. While it definitely looks more natural, I found foot tracking was very poor. Feet sliding, he didn't feel physically connected to the ground.
+You'll notice the low-angle camera shot obscuring the feet, mind. While it definitely looks more natural, I found foot tracking was very poor. With his feet sliding all over the shop, the poor lad didn't feel physically connected to the ground at all.
 
 So I tried another approach I'd seen kicking around. I moved a new character step by step, placing the feet and pelvis first before building the rest of the motion around that. That did it, and while this Demoman looks (fittingly) drunk, he's connected firmly to the ground. His footsteps make *sense*. I even returned to the motion editor to add a little character.
 
