@@ -4,18 +4,18 @@ layout: post
 
 <img src="https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/header_squids.png" alt=""><br>
 
-Last Monday Rachel went back to work, and I found myself in a bit of a pickle. See, I'd started getting work lined up again, but at time of writing we're still sorting out all the deets (keep an eye out for cool developments soon, though!).
+Last Monday, Rachel went back to work, and I found myself in a bit of a pickle. See, I've been out of regular gigs for a few weeks now. While I've been busy scrapping together some awesome new opportunities on the downlow (expect some news reporting *very* soon, word-fans), they won't take effect for another few days. I had to find something to do to kill all that free time, and there's only so much Witcher I can play in a day.
 
-I still needed to get out of the house, mind. I'm still paying for the office down in Leith, and figured I might as well go and work on *something*. But while I'd created a cool environment in Unity over winter, I had no passion for making a "game" out of it.
+I'm still paying for the office down in Leith, so figured I might as well go and work on *something*. But while I'd created a cool environment in Unity over winter, I had no passion for making a "game" out of it. As an experienced purveyor of YouTube garbage, I'd once again been deep in a Source Filmmaker kick.
 
-As an experienced purveyour of YouTube garbage, though, I'd once again been deep in a Source Filmmaker kick. Flipping between [An0nymoose's incredible shorts](https://www.youtube.com/watch?v=I7Tps0M-l64), Maxime Lebled's [stunning Dota 2 films](https://www.youtube.com/watch?v=1HFBwMbJVAM) and some [adorable Splatoon shorts](https://www.youtube.com/watch?v=A6PkBTUaawE), I reckoned it was time I picked up animation again. After all, I'd created one walk cycle for a pre-Can Androids Pray¹ mech a few years back. How hard could it be?
+Flipping between [An0nymoose's incredible shorts](https://www.youtube.com/watch?v=I7Tps0M-l64), Maxime Lebled's [stunning Dota 2 films](https://www.youtube.com/watch?v=1HFBwMbJVAM) and some [adorable Splatoon shorts](https://www.youtube.com/watch?v=A6PkBTUaawE), I reckoned it was time I picked up animation again. After all, I'd created one walk cycle for a pre-Can Androids Pray¹ mech a few years back. How hard could it be?
 
 
-I started, as you do, with a veemo.
+It started, as all the classics do, with a veemo.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I spent all day learning walk cycles and - while I&#39;m definitely improving, there&#39;s nothing to show for it so uhhhhh<br><br>uhhhhhhhh<br><br>🐙 <a href="https://t.co/AGOn5kvrKp">pic.twitter.com/AGOn5kvrKp</a></p>&mdash; nat clayton (@ScarletCatalie) <a href="https://twitter.com/ScarletCatalie/status/1214567080629981186?ref_src=twsrc%5Etfw">January 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Look, alright. I know the software has some baggage. Take a cursory glance at the hashtags and Steam Community hub, and there are basically three kinds of SFM creations in 2020: high-contrast gamer wallpapers, hardcore pornography, and squidposting. I'll happily admit to the latter over the other two, mind. I'm in a bit of a massive Splatoon 2 kick² right now. Don't @ me.
+Look, alright. I know the software has some baggage. Take a cursory glance at the hashtags and Steam Community hub, and there are basically three kinds of SFM creations in 2020: high-contrast gamer wallpapers, hardcore pornography, and squidposting. I'll happily accept the latter if it means avoiding the other two, given I'm in the midst of a massive Splatoon 2 kick² right now.
 
 But SFM also gives me a platform to explore animation with ease. I don't need to mess around creating my own models or rigs. There's a bounty of semi-legal assets from beloved IP at my fingertips, letting me get right down to the business of creating a scene. From my brief encounters with other animation software (Blender and Maya), it seems pretty similar anyway.
 
