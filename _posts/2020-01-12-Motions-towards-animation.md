@@ -4,11 +4,11 @@ layout: post
 
 <img src="https://raw.githubusercontent.com/ScarletCatalie/ScarletCatalie.github.io/master/assets/header_squids.png" alt=""><br>
 
-Last Monday, Rachel went back to work, and I found myself in a bit of a pickle. See, I've been out of regular gigs for a few weeks now. While I've been busy scrapping together some awesome new opportunities on the downlow (expect some news reporting *very* soon, word-fans), they won't take effect for another few days. I had to find something to do to kill all that free time, and there's only so much Witcher I can play in a day.
+Last Monday, I found myself in a bit of a pickle. See, while the rest of the world went back to work, I've found myself out of my regular gigs for a few weeks. Now, I've been busy scrapping together some awesome new opportunities (expect some news reporting *very* soon, word-fans), but they won't take effect for another few days. In the meantime, I had to find something to do to with all that free time, and it couldn't just be plugging more hours into The Witcher 3.
 
-I'm still paying for the office down in Leith, so figured I might as well go and work on *something*. But while I'd created a cool environment in Unity over winter, I had no passion for making a "game" out of it. As an experienced purveyor of YouTube garbage, I'd once again been deep in a Source Filmmaker kick.
+I'm still paying for the office down in Leith, so figured I might as well go and work on *something*. But while I'd created a cool environment in Unity over winter, I had no passion for making a "game" out of it. Likewise, I've a tabletop rulebook and some Lancer campaign planning in my docs, but nothing was grabbing my attention. Nothing demanded being done *right this moment*.
 
-Flipping between [An0nymoose's incredible shorts](https://www.youtube.com/watch?v=I7Tps0M-l64), Maxime Lebled's [stunning Dota 2 films](https://www.youtube.com/watch?v=1HFBwMbJVAM) and some [adorable Splatoon shorts](https://www.youtube.com/watch?v=A6PkBTUaawE), I reckoned it was time I picked up animation again. After all, I'd created one walk cycle for a pre-Can Androids Pray¹ mech a few years back. How hard could it be?
+As an experienced purveyor of YouTube garbage, I'd once again been deep in a Source Filmmaker kick. Flipping between [An0nymoose's incredible shorts](https://www.youtube.com/watch?v=I7Tps0M-l64), Maxime Lebled's [stunning Dota 2 films](https://www.youtube.com/watch?v=1HFBwMbJVAM) and some [adorable Splatoon shorts](https://www.youtube.com/watch?v=A6PkBTUaawE), I reckoned it was time I picked up animation again. After all, I'd created one walk cycle for a pre-Can Androids Pray¹ mech a few years back. How hard could it be?
 
 
 It started, as all the classics do, with a veemo.
