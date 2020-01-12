@@ -69,6 +69,6 @@ When I started this little dabble into Source Filmmaker, I didn't see myself tak
 
 ¹ *Learning to animate that first Mech led directly to the development of Can Androids Pray, by way of a short Mech-Adventure demo. Somewhat ironically, Can Androids Pray is completely lacking in animated elements.*
 
-² *(I touched on it in my [2019-in-games](https://scarletcatalie.github.io/blog/2019/12/22/Games-wot-I-played-in-2019) post, but I'm really, truly stuck deep into Splatoon 2. It's a hard love to reckon with, though. If I were younger, I'd happily be diving into forums and communities. But in my mid-twenties, with a modest Twitter following, deep hang-ups over things I've loved before and a strong uncertainty of what it actually means to be seen as an "adult", I still struggle to earnestly enjoy things.*
+² *I touched on it in my [2019-in-games](https://scarletcatalie.github.io/blog/2019/12/22/Games-wot-I-played-in-2019) post, but I'm really, truly stuck deep into Splatoon 2. It's a hard love to reckon with, though. If I were younger, I'd happily be diving into forums and communities. But in my mid-twenties, with a modest Twitter following, deep hang-ups over things I've loved before and a strong uncertainty of what it actually means to be seen as an "adult", I still struggle to earnestly enjoy things.*
 
 *That's, perhaps, something to write my way through another time.*
